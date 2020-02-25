@@ -9,3 +9,7 @@ input.txt
 main.py
 output.txt
 venv/
+!/main.py
+!/output.txt
+!/input.txt
+!/allenBriceLab05.gdoc
