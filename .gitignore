@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/lab05.iml
+.idea/misc.xml
+.idea/modules.xml
+allenBriceLab05.gdoc
+input.txt
+main.py
+output.txt
+venv/
